@@ -1,6 +1,7 @@
-# Number_baseball_game
+# client-server programs for the Number Baseball Game using Python3.7
 - with socket programming(local host)
 (Computer Network class project assignment)
+- 
 
 Rules of the Number Baseball Game
 - There are two players: 1) server player and 2) client player.
